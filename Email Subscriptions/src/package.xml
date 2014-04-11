@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Subscriptions</members>
+        <members>TestData</members>
+        <members>Test_CampaignMember</members>
+        <members>Test_Contacts</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CampaignMemberAFTER</members>
+        <members>ContactBEFORE</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Contact</members>
+        <name>CustomObject</name>
+    </types>
+    <version>27.0</version>
+</Package>
