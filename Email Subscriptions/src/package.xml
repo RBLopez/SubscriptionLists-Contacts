@@ -5,6 +5,7 @@
         <members>TestData</members>
         <members>Test_CampaignMember</members>
         <members>Test_Contacts</members>
+        <members>Test_Subscriptions</members>
         <name>ApexClass</name>
     </types>
     <types>
